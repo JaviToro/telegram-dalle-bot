@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "start": "set NODE_ENV=dev && node bot.js"
+    "start": "node bot.js"
    },
   "dependencies": {
     "dotenv": "^16.0.3",
