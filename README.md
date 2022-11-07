@@ -13,7 +13,7 @@ In order to use this bot yourself, you'll need to get two keys, one for the Open
 
 Once you've got both keys, create a .env file in the root of the project and then add the tokens there, the following way:
 ```
-OPEN_API_KEY="your token as string"
+OPENAI_API_KEY="your token as string"
 TELEGRAM_BOT_TOKEN="your token as string"
 ```
 Save the file and remember adding it to your .gitignore if you're pushing the code, otherwise you'd be sharing your keys.
